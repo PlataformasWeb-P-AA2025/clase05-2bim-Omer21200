@@ -27,3 +27,5 @@
 2.1 settings.py
 
 2.2 templates
+
+![alt text](<Captura desde 2025-07-08 16-54-23.png>) ![alt text](<Captura desde 2025-07-08 16-54-50.png>) ![alt text](<Captura desde 2025-07-08 16-55-00.png>) ![alt text](<Captura desde 2025-07-08 16-56-41.png>)
